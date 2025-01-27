@@ -1,0 +1,163 @@
+D:\IT\training\ERP11\ERP11\bin\Debug\ERP11.exe.config
+D:\IT\training\ERP11\ERP11\bin\Debug\ERP11.exe
+D:\IT\training\ERP11\ERP11\bin\Debug\ERP11.pdb
+D:\IT\training\ERP11\ERP11\bin\Debug\ERP11.xml
+D:\IT\training\ERP11\ERP11\obj\Debug\ERP11.Dashboard.resources
+D:\IT\training\ERP11\ERP11\obj\Debug\ERP11.LoginForm.resources
+D:\IT\training\ERP11\ERP11\obj\Debug\ERP11.Resources.resources
+D:\IT\training\ERP11\ERP11\obj\Debug\ERP11.accessControls.resources
+D:\IT\training\ERP11\ERP11\obj\Debug\ERP11.acL1.resources
+D:\IT\training\ERP11\ERP11\obj\Debug\ERP11.acL2.resources
+D:\IT\training\ERP11\ERP11\obj\Debug\ERP11.acL3.resources
+D:\IT\training\ERP11\ERP11\obj\Debug\ERP11.area.resources
+D:\IT\training\ERP11\ERP11\obj\Debug\ERP11.changePassword.resources
+D:\IT\training\ERP11\ERP11\obj\Debug\ERP11.dbBackup.resources
+D:\IT\training\ERP11\ERP11\obj\Debug\ERP11.newUser.resources
+D:\IT\training\ERP11\ERP11\obj\Debug\ERP11.productCategory.resources
+D:\IT\training\ERP11\ERP11\obj\Debug\ERP11.productDetail.resources
+D:\IT\training\ERP11\ERP11\obj\Debug\ERP11.salesPersonnel.resources
+D:\IT\training\ERP11\ERP11\obj\Debug\ERP11.subArea.resources
+D:\IT\training\ERP11\ERP11\obj\Debug\ERP11.vbproj.GenerateResource.Cache
+D:\IT\training\ERP11\ERP11\obj\Debug\ERP11.exe
+D:\IT\training\ERP11\ERP11\obj\Debug\ERP11.xml
+D:\IT\training\ERP11\ERP11\obj\Debug\ERP11.pdb
+D:\IT\training\ERP11\ERP11\obj\Debug\ERP11.searchDialogL3.resources
+D:\IT\training\ERP11\ERP11\obj\Debug\ERP11.JV.resources
+F:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\bin\Debug\ERP11.exe.config
+F:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.exe
+F:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.xml
+F:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.pdb
+F:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\bin\Debug\ERP11.exe
+F:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\bin\Debug\ERP11.pdb
+F:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\bin\Debug\ERP11.xml
+F:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.Dashboard.resources
+F:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.JV.resources
+F:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.LoginForm.resources
+F:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.Resources.resources
+F:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.searchDialogL3.resources
+F:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.accessControls.resources
+F:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.acL1.resources
+F:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.acL2.resources
+F:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.acL3.resources
+F:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.area.resources
+F:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.changePassword.resources
+F:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.dbBackup.resources
+F:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.newUser.resources
+F:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.productCategory.resources
+F:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.productDetail.resources
+F:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.salesPersonnel.resources
+F:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.subArea.resources
+F:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.vbproj.GenerateResource.Cache
+G:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\bin\Debug\ERP11.exe.config
+G:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.exe
+G:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.xml
+G:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.pdb
+G:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\bin\Debug\ERP11.exe
+G:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\bin\Debug\ERP11.pdb
+G:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\bin\Debug\ERP11.xml
+G:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.Dashboard.resources
+G:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.JV.resources
+G:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.LoginForm.resources
+G:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.Resources.resources
+G:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.searchDialogL3.resources
+G:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.accessControls.resources
+G:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.acL1.resources
+G:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.acL2.resources
+G:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.acL3.resources
+G:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.area.resources
+G:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.changePassword.resources
+G:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.dbBackup.resources
+G:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.newUser.resources
+G:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.productCategory.resources
+G:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.productDetail.resources
+G:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.salesPersonnel.resources
+G:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.subArea.resources
+G:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.vbproj.GenerateResource.Cache
+Z:\Hexagon-Linux\Hexagon\Projects\ERP Project_1\ERP11\ERP11\bin\Debug\ERP11.exe.config
+Z:\Hexagon-Linux\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.exe
+Z:\Hexagon-Linux\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.xml
+Z:\Hexagon-Linux\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.pdb
+Z:\Hexagon-Linux\Hexagon\Projects\ERP Project_1\ERP11\ERP11\bin\Debug\ERP11.exe
+Z:\Hexagon-Linux\Hexagon\Projects\ERP Project_1\ERP11\ERP11\bin\Debug\ERP11.pdb
+Z:\Hexagon-Linux\Hexagon\Projects\ERP Project_1\ERP11\ERP11\bin\Debug\ERP11.xml
+Z:\Hexagon-Linux\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ResolveAssemblyReference.cache
+Z:\Hexagon-Linux\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.Dashboard.resources
+Z:\Hexagon-Linux\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.JV.resources
+Z:\Hexagon-Linux\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.LoginForm.resources
+Z:\Hexagon-Linux\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.Resources.resources
+Z:\Hexagon-Linux\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.searchDialogL3.resources
+Z:\Hexagon-Linux\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.accessControls.resources
+Z:\Hexagon-Linux\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.acL1.resources
+Z:\Hexagon-Linux\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.acL2.resources
+Z:\Hexagon-Linux\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.acL3.resources
+Z:\Hexagon-Linux\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.area.resources
+Z:\Hexagon-Linux\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.changePassword.resources
+Z:\Hexagon-Linux\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.dbBackup.resources
+Z:\Hexagon-Linux\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.newUser.resources
+Z:\Hexagon-Linux\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.productCategory.resources
+Z:\Hexagon-Linux\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.productDetail.resources
+Z:\Hexagon-Linux\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.salesPersonnel.resources
+Z:\Hexagon-Linux\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.subArea.resources
+Z:\Hexagon-Linux\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\GenerateResource.read.1.tlog
+Z:\Hexagon-Linux\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\GenerateResource.write.1.tlog
+Z:\Hexagon-Linux\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.splashScreen.resources
+Z:\Hexagon-Linux\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.about.resources
+Z:\Hexagon-Linux\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.acAssign.resources
+Z:\Hexagon-Linux\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.subCreation.resources
+Z:\Hexagon-Linux\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.customerDetails.resources
+Z:\Hexagon-Linux\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.supplierDetails.resources
+Z:\Hexagon-Linux\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.employeeDetails.resources
+Z:\Hexagon-Linux\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.lcSupplierDetails.resources
+Z:\Hexagon-Linux\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.costCentres.resources
+Z:\Hexagon-Linux\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.searchCostCentre.resources
+Z:\Hexagon-Linux\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.searchCustomer.resources
+Z:\Hexagon-Linux\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.searchEmployee.resources
+Z:\Hexagon-Linux\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.searchLCSupplier.resources
+Z:\Hexagon-Linux\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.searchSupplier.resources
+Z:\Hexagon-Linux\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.bpv.resources
+Z:\Hexagon-Linux\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.brv.resources
+Z:\Hexagon-Linux\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.cpv.resources
+Z:\Hexagon-Linux\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.crv.resources
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP11.vbproj.GenerateResource.Cache
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\bin\Debug\ERP12.exe.config
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\bin\Debug\ERP12.exe
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\bin\Debug\ERP12.pdb
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\bin\Debug\ERP12.xml
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP12.bpv.resources
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP12.brv.resources
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP12.cpv.resources
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP12.crv.resources
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP12.searchCostCentre.resources
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP12.searchCustomer.resources
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP12.searchEmployee.resources
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP12.searchLCSupplier.resources
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP12.searchSupplier.resources
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP12.about.resources
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP12.Dashboard.resources
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP12.jv.resources
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP12.LoginForm.resources
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP12.Resources.resources
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP12.searchDialogL3.resources
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP12.accessControls.resources
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP12.acAssign.resources
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP12.acL1.resources
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP12.acL2.resources
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP12.acL3.resources
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP12.area.resources
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP12.changePassword.resources
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP12.dbBackup.resources
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP12.newUser.resources
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP12.costCentres.resources
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP12.productCategory.resources
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP12.productDetail.resources
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP12.salesPersonnel.resources
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP12.subArea.resources
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP12.subCreation.resources
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP12.customerDetails.resources
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP12.employeeDetails.resources
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP12.lcSupplierDetails.resources
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP12.supplierDetails.resources
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP12.splashScreen.resources
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP12.exe
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP12.xml
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP12.pdb

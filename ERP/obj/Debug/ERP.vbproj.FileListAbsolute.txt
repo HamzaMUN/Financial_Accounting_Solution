@@ -1,0 +1,378 @@
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP\bin\Debug\ERP12.exe.config
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP\obj\Debug\ERP12.exe
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP\obj\Debug\ERP12.xml
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP\obj\Debug\ERP12.pdb
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP\bin\Debug\ERP.exe.config
+D:\Hexagon\Projects\ERP Project_1\ERP12\ERP\bin\Debug\ERP.exe.config
+D:\Hexagon\Projects\ERP Project_1\ERP\bin\Debug\ERP.exe.config
+D:\Hexagon\Projects\ERP Project_1\ERP\bin\Debug\ERP.exe
+D:\Hexagon\Projects\ERP Project_1\ERP\bin\Debug\ERP.xml
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.bpv.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.brv.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.cpv.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.crv.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.searchCostCentre.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.searchCustomer.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.searchEmployee.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.searchLCSupplier.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.searchSupplier.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.about.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.Dashboard.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.jv.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.LoginForm.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.Resources.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.searchDialogL3.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.accessControls.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.acAssign.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.acL1.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.acL2.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.acL3.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.area.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.changePassword.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.dbBackup.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.newUser.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.costCentres.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.productCategory.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.productDetail.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.salesPersonnel.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.subArea.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.subCreation.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.customerDetails.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.employeeDetails.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.lcSupplierDetails.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.supplierDetails.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.splashScreen.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.vbproj.GenerateResource.Cache
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.exe
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.xml
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.NewActivate.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.AppValidation.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.batch.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\bin\Debug\System.Windows.Forms.Ribbon35.dll
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.vbprojResolveAssemblyReference.cache
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.searchProduct.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.grn.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.storeOutward.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.purchaseInvoice.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.purchaseReturnInvoice.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.inventoryIssueWIP.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.purchaseOrder.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.purchaseRequest.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.sdc.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.sjv.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.src.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.sri.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.stn.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.stockTransferProduction.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.searchBatch.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.searchGRN.resources
+D:\Hexagon\Projects\ERP Project_1\ERP\obj\Debug\ERP.searchPRN.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\bin\Debug\ERP.exe.config
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.exe
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.xml
+D:\Hexagon\Clients\ERP Project_1\ERP\bin\Debug\ERP.exe
+D:\Hexagon\Clients\ERP Project_1\ERP\bin\Debug\ERP.xml
+D:\Hexagon\Clients\ERP Project_1\ERP\bin\Debug\System.Windows.Forms.Ribbon35.dll
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.vbprojResolveAssemblyReference.cache
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.AppValidation.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.bpv.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.brv.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.cpv.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.crv.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.grn.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.inventoryIssueWIP.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.purchaseInvoice.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.purchaseOrder.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.purchaseRequest.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.purchaseReturnInvoice.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.sdc.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.sjv.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.src.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.sri.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.stn.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.stockTransferProduction.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.storeOutward.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.NewActivate.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.searchBatch.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.searchCostCentre.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.searchCustomer.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.searchEmployee.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.searchGRN.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.searchLCSupplier.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.searchPRN.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.searchProduct.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.searchSupplier.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.about.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.Dashboard.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.jv.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.LoginForm.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.Resources.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.searchDialogL3.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.accessControls.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.acAssign.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.acL1.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.acL2.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.acL3.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.area.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.changePassword.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.dbBackup.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.newUser.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.batch.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.costCentres.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.productCategory.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.productDetail.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.salesPersonnel.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.subArea.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.subCreation.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.customerDetails.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.employeeDetails.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.lcSupplierDetails.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.supplierDetails.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.splashScreen.resources
+D:\Hexagon\Clients\ERP Project_1\ERP\obj\Debug\ERP.vbproj.GenerateResource.Cache
+D:\Hexagon\Clients\cl001\ERP\bin\Debug\ERP.exe.config
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.exe
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.xml
+D:\Hexagon\Clients\cl001\ERP\bin\Debug\ERP.exe
+D:\Hexagon\Clients\cl001\ERP\bin\Debug\ERP.xml
+D:\Hexagon\Clients\cl001\ERP\bin\Debug\System.Windows.Forms.Ribbon35.dll
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.vbprojResolveAssemblyReference.cache
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.AppValidation.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.bpv.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.brv.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.cpv.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.crv.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.grn.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.inventoryIssueWIP.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.purchaseInvoice.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.purchaseOrder.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.purchaseRequest.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.purchaseReturnInvoice.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.sdc.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.sjv.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.src.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.sri.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.stn.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.stockTransferProduction.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.storeOutward.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.NewActivate.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.searchBatch.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.searchCostCentre.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.searchCustomer.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.searchEmployee.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.searchGRN.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.searchLCSupplier.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.searchPRN.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.searchProduct.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.searchSupplier.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.about.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.Dashboard.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.jv.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.LoginForm.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.Resources.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.searchDialogL3.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.accessControls.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.acAssign.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.acL1.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.acL2.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.acL3.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.area.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.changePassword.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.dbBackup.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.newUser.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.batch.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.costCentres.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.productCategory.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.productDetail.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.salesPersonnel.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.subArea.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.subCreation.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.customerDetails.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.employeeDetails.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.lcSupplierDetails.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.supplierDetails.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.splashScreen.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.vbproj.GenerateResource.Cache
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.coaReport1.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.jvPrint.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.bpvPrint.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.brvPrint.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.cpvPrint.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.crvPrint.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.coaLedger.resources
+D:\Hexagon\Clients\cl001\ERP\obj\Debug\ERP.coaLedgerPrint.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\bin\Debug\ERP.exe.config
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.exe
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.xml
+D:\Hexagon\Clients\multimedia_private_limited\ERP\bin\Debug\ERP.exe
+D:\Hexagon\Clients\multimedia_private_limited\ERP\bin\Debug\ERP.xml
+D:\Hexagon\Clients\multimedia_private_limited\ERP\bin\Debug\System.Windows.Forms.Ribbon35.dll
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.vbprojResolveAssemblyReference.cache
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.AppValidation.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.bpv.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.brv.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.cpv.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.crv.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.grn.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.inventoryIssueWIP.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.bpvPrint.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.brvPrint.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.cpvPrint.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.crvPrint.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.jvPrint.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.purchaseInvoice.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.purchaseOrder.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.purchaseRequest.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.purchaseReturnInvoice.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.sdc.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.sjv.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.src.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.sri.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.stn.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.stockTransferProduction.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.storeOutward.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.coaLedger.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.coaLedgerPrint.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.coaReport1.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.NewActivate.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.searchBatch.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.searchCostCentre.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.searchCustomer.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.searchEmployee.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.searchGRN.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.searchLCSupplier.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.searchPRN.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.searchProduct.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.searchSupplier.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.about.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.Dashboard.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.jv.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.LoginForm.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.Resources.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.searchDialogL3.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.accessControls.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.acAssign.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.acL1.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.acL2.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.acL3.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.area.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.changePassword.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.dbBackup.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.newUser.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.batch.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.costCentres.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.productCategory.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.productDetail.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.salesPersonnel.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.subArea.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.subCreation.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.customerDetails.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.employeeDetails.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.lcSupplierDetails.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.supplierDetails.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.splashScreen.resources
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.vbproj.GenerateResource.Cache
+D:\Hexagon\Clients\multimedia_private_limited\ERP\obj\Debug\ERP.trialSummary.resources
+D:\Hexagon\Clients\digi_prime\ERP\bin\Debug\ERP.exe.config
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.exe
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.xml
+D:\Hexagon\Clients\digi_prime\ERP\bin\Debug\ERP.exe
+D:\Hexagon\Clients\digi_prime\ERP\bin\Debug\ERP.xml
+D:\Hexagon\Clients\digi_prime\ERP\bin\Debug\System.Windows.Forms.Ribbon35.dll
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.vbprojResolveAssemblyReference.cache
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.AppValidation.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.bpv.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.brv.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.cpv.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.crv.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.grn.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.inventoryIssueWIP.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.bpvPrint.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.brvPrint.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.cpvPrint.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.crvPrint.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.jvPrint.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.purchaseInvoice.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.purchaseOrder.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.purchaseRequest.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.purchaseReturnInvoice.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.sdc.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.sjv.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.src.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.sri.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.stn.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.stockTransferProduction.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.storeOutward.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.coaLedger.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.coaLedgerPrint.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.coaReport1.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.trialSummary.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.NewActivate.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.searchBatch.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.searchCostCentre.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.searchCustomer.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.searchEmployee.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.searchGRN.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.searchLCSupplier.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.searchPRN.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.searchProduct.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.searchSupplier.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.about.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.Dashboard.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.jv.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.LoginForm.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.Resources.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.searchDialogL3.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.accessControls.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.acAssign.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.acL1.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.acL2.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.acL3.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.area.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.changePassword.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.dbBackup.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.newUser.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.batch.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.costCentres.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.productCategory.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.productDetail.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.salesPersonnel.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.subArea.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.subCreation.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.customerDetails.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.employeeDetails.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.lcSupplierDetails.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.supplierDetails.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.splashScreen.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.vbproj.GenerateResource.Cache
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.subLedger.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.subLedgerPrint2.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.subLedgerPrint1.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.subLedgerPrint3.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.subLedgerPrint4.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.subLedgerPrint5.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.trialSummaryPrint.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.trialDetails.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.trialDetailsPrint.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.trialSummaryPostedPrint.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.trialDetailsPostedPrint.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.coaLedgerRange.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.coaLedgerRangePrint.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.subsidiaryActivity.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.subActivityPrint1.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.subActivityPrint2.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.subActivityPrint3.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.subActivityPrint4.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.subActivityPrint5.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.subActivityPostedPrint1.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.subActivityPostedPrint2.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.subActivityPostedPrint3.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.subActivityPostedPrint4.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.subActivityPostedPrint5.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.coaWSubLedger.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.searchSub.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.coaWSubLedgerDetailPrint.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.coaWSubLedgerSummaryPrint.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.subWCoaLedger.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.subWCoaLedgerDetailPrint.resources
+D:\Hexagon\Clients\digi_prime\ERP\obj\Debug\ERP.subWCoaLedgerSummaryPrint.resources

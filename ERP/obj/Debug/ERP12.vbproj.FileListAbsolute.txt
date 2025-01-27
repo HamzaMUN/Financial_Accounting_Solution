@@ -1,0 +1,4 @@
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\bin\Debug\ERP12.exe.config
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP12.exe
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP12.xml
+D:\Hexagon\Projects\ERP Project_1\ERP11\ERP11\obj\Debug\ERP12.pdb
